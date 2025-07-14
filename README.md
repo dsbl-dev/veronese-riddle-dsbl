@@ -5,7 +5,7 @@
 This repository provides a conceptual model and formal representation of the eighth-century Veronese Riddle using the principles of Deferred Semantic Binding Language (DSBL). It serves as a companion to the academic paper:
 
 **Petersson, J. (2025). Solving the Veronese Riddle: A Computational Key to Medieval Semantics.** *Zenodo.*  
-[DOI TODO - will be added upon publication]
+[10.5281/zenodo.15875469](https://doi.org/10.5281/zenodo.15875469)
 
 ## Overview
 
@@ -48,8 +48,8 @@ If you use the concepts or models from this work, please cite the main paper:
   title        = {Solving the Veronese Riddle: A Computational Key to Medieval Semantics},
   year         = {2025},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi          = {10.5281/zenodo.15875469},
+  url          = {https://doi.org/10.5281/zenodo.15875469}
 }
 ```
 
