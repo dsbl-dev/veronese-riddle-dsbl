@@ -55,7 +55,7 @@ If you use the concepts or models from this work, please cite the main paper:
 
 ## The Tending: A Contemporary Echo
 
-As a contemporary echo of the riddle's performative nature, this work includes the design of **The Tending**: a cryptographic seal implementing DSBL principles through Shamir's Secret Sharing. 50 fragments distributed among appointed Vestals, where any 40 suffice for reconstruction. The seal demonstrates how deferred semantic binding can operate across millennial timescales. Full specification in the paper's Coda section.
+As a contemporary echo of the riddle's performative nature, this work includes the design of **The Tending**: a cryptographic seal implementing DSBL principles through Shamir's Secret Sharing. 50 fragments distributed among appointed Vestals, where any 40 suffice for reconstruction. The seal demonstrates how deferred semantic binding can operate across millennial timescales.
 
 ## Related Work
 
